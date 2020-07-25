@@ -1,1 +1,1 @@
-# Fun-programs
+# Snake Game
